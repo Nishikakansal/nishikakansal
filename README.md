@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="450" src="https://i.pinimg.com/1200x/d7/63/e0/d763e03e87e9ae7841ff5990c299dd5e.jpg" />
+  <img width="600" height="300" src="https://i.pinimg.com/736x/d0/a7/8e/d0a78eca5d55030ece264091565447b2.jpg" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nishika</h1>
