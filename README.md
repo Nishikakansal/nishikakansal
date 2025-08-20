@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="450" src="https://pin.it/1k75oXBRh" />
+  <img width="1000" height="450" src="https://i.pinimg.com/1200x/d7/63/e0/d763e03e87e9ae7841ff5990c299dd5e.jpg" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nishika</h1>
