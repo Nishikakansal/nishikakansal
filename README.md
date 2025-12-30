@@ -12,7 +12,7 @@
 - 📫 How to reach me **nishikakansal@gmail.com**
 
 - 🔖 My Portfolio - [Portfolio](https://my-portfolio-nishika-kansal.vercel.app)
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1tQtQGprcTLtV-y1tbU15NB3602CvF7Rf?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1j1KuXE4k3OsxPZ7E0C88tyhmplK0FScY/view?usp=drive_link)
 
 
 - ⚡ Fun fact **I believe passion + code = endless possibilities**
