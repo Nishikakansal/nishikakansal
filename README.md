@@ -12,6 +12,7 @@
 - 📫 How to reach me **nishikakansal@gmail.com**
 
 - 🔖 My Portfolio - [Portfolio](https://my-portfolio-nishika-kansal.vercel.app)
+- 🔖 Leetcode - [Leetcode](https://leetcode.com/u/Nishika_kansal/)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1j1KuXE4k3OsxPZ7E0C88tyhmplK0FScY/view?usp=drive_link)
 
 
