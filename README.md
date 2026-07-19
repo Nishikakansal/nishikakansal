@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nishika</h1>
-<h3 align="center">💻 Passionate Frontend Developer | 🚀 Hackathon Enthusiast | 🎨 UI/UX Explorer</h3>
+<h3 align="center">💻 Passionate FullStack Developer | 🚀 Hackathon Enthusiast | 🎨 AI/ML Explorer</h3>
 
 - 🌱 Currently exploring **Next.js, React.js, Data Structures & Algorithms (DSA), Artificial Intelligence / Machine Learning (AI/ML)**
 
